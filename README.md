@@ -11,3 +11,5 @@ For example demo template creates DataTable from template.html
 3. gulp //Will create final distr folder and in folder ./output creates QS import ready zip file
 
 
+As a result we will get DataTable and bootstrap alerts. Now we can start developing hypercybe process to visualize 
+![](screenshot.PNG)
