@@ -1,7 +1,7 @@
 # QSBootstrapAndDataTableExample
 QlikSense extension with bootstrap, datatablesjs. 
 
-Qlik Sense Extension Starter Template with Bootstrap/DataTablesjs and 1 dimension, 1 measure
+Qlik Sense Extension Starter Template with Bootstrap/DataTablesjs/Fontawesome and 1 dimension, 1 measure
 
 For example demo template creates DataTable from template.html 
 
